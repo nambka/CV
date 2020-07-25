@@ -1,3 +1,14 @@
+## Project Info
+
+Project built with reference from [How to deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+
+More useful references:
+1. [TypeScript React Starter](https://github.com/Microsoft/TypeScript-React-Starter)
+2. [Hướng dẫn deploy một static page sử dụng Reactjs lên github page](https://viblo.asia/p/huong-dan-deploy-mot-static-page-su-dung-reactjs-len-github-page-63vKjGJNZ2R)
+3. 
+
+## React References
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
