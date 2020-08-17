@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>Tim hieu them: <a href="https://viblo.asia/p/deploy-create-react-app-project-to-github-pages-m68Z0R465kG">deploy-create-react-app-project-to-github-pages</a></p>
         <a
           className="App-link"
           href="https://reactjs.org"

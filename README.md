@@ -5,7 +5,7 @@ Project built with reference from [How to deploy React App to GitHub Pages](http
 More useful references:
 1. [TypeScript React Starter](https://github.com/Microsoft/TypeScript-React-Starter)
 2. [Hướng dẫn deploy một static page sử dụng Reactjs lên github page](https://viblo.asia/p/huong-dan-deploy-mot-static-page-su-dung-reactjs-len-github-page-63vKjGJNZ2R)
-3. 
+3. []()
 
 ## React References
 
