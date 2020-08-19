@@ -1,0 +1,197 @@
+@font-face {
+    font-family: 'DINNext';
+    src: url('./assets/fonts/DINNextLTPro-Light.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Light.otf') format('opentype');
+    font-weight: 300;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINNext';
+    src: url('./assets/fonts/DINNextLTPro-Regular.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Regular.otf') format('opentype');
+    font-weight: 400;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINNext';
+    src: url('./assets/fonts/DINNextLTPro-Medium.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Medium.otf') format('opentype');
+    font-weight: 500;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINNext';
+    src: url('./assets/fonts/DINNextLTPro-Bold.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Bold.otf') format('opentype');
+    font-weight: 700;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('./assets/fonts/DINNextLTPro-Light.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Light.otf') format('opentype');
+    font-weight: 300;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('./assets/fonts/DINNextLTPro-Regular.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Regular.otf') format('opentype');
+    font-weight: 400;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('./assets/fonts/DINNextLTPro-Medium.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Medium.otf') format('opentype');
+    font-weight: 500;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('./assets/fonts/DINNextLTPro-Bold.woff2') format('woff2'),url('./assets/fonts/DINNextLTPro-Bold.otf') format('opentype');
+    font-weight: 700;
+    unicode-range: U+0030-0039
+}
+
+@font-face {
+    font-family: 'IBMPlexSans';
+    src: url('/static/fonts/ibm/IBMPlexSans-ExtraLight.otf') format('opentype');
+    font-weight: 200
+}
+
+@font-face {
+    font-family: 'IBMPlexSans';
+    src: url('/static/fonts/ibm/IBMPlexSans-Regular.otf') format('opentype');
+    font-weight: 400
+}
+
+@font-face {
+    font-family: 'IBMPlexSans';
+    src: url('/static/fonts/ibm/IBMPlexSans-Medium.otf') format('opentype');
+    font-weight: 500
+}
+
+@font-face {
+    font-family: 'IBMPlexSans';
+    src: url('/static/fonts/ibm/IBMPlexSans-SemiBold.otf') format('opentype');
+    font-weight: 600
+}
+
+@font-face {
+    font-family: 'IBMPlexSans';
+    src: url('/static/fonts/ibm/IBMPlexSans-Bold.otf') format('opentype');
+    font-weight: 700
+}
+
+@font-face {
+    font-family: "bnbicons";
+    src: url('./iconfont/iconfont.eot');
+    src: url('./iconfont/iconfont.eot?#iefix') format("embedded-opentype"),url('./iconfont/iconfont.woff2') format("woff2"),url('./iconfont/iconfont.woff') format("woff"),url('./iconfont/iconfont.ttf') format("truetype"),url('./iconfont/iconfont.svg#iconfont') format("svg");
+    font-style: normal;
+    font-weight: normal
+}
+
+@font-face {
+    font-family: "iconfont";
+    src: url('./iconfont/iconfont.eot');
+    src: url('./iconfont/iconfont.eot?#iefix') format("embedded-opentype"),url('./iconfont/iconfont.woff2') format("woff2"),url('./iconfont/iconfont.woff') format("woff"),url('./iconfont/iconfont.ttf') format("truetype"),url('./iconfont/iconfont.svg#iconfont') format("svg");
+    font-style: normal;
+    font-weight: normal
+}
+
+body {
+    font-family: DINNext,IBMPlexSans,Arial,'Microsoft YaHei',sans-serif!important
+}
+
+.icon-twitter-solid:before {
+    content: "\e89f"
+}
+
+.icon-facebook-solid:before {
+    content: "\e6d6"
+}
+
+.icon-windows:before {
+    content: "\e841"
+}
+
+.icon-email:before {
+    content: "\e648"
+}
+
+.icon-refresh:before {
+    content: "\e67b"
+}
+
+.icon-android:before {
+    content: "\e620"
+}
+
+.icon-tips:before {
+    content: "\e7ae"
+}
+
+.icon-telegram-solid:before {
+    content: "\e715"
+}
+
+.icon-qr:before {
+    content: "\e7c1"
+}
+
+.icon-search:before {
+    content: "\e660"
+}
+
+.icon-facebook:before {
+    content: "\e662"
+}
+
+.icon-weibo:before {
+    content: "\e663"
+}
+
+.icon-steemit:before {
+    content: "\e666"
+}
+
+.icon-instagram:before {
+    content: "\e667"
+}
+
+.icon-medium:before {
+    content: "\e668"
+}
+
+.icon-light:before {
+    content: "\e678"
+}
+
+.icon-dark:before {
+    content: "\e679"
+}
+
+.icon-success:before {
+    content: "\e68f"
+}
+
+.icon-telegram:before {
+    content: "\e695"
+}
+
+.icon-twitter:before {
+    content: "\e698"
+}
+
+.icon-reddit:before {
+    content: "\e6bf"
+}
+
+.icon-apps:before {
+    content: "\e6d9"
+}
+
+.icon-github:before {
+    content: "\e6ed"
+}
